@@ -11,7 +11,7 @@ export default function Home() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    alert(Signup submitted for ${form.name});
+    alert('Signup submitted for ${form.name}');
   };
 
   const categories = [
