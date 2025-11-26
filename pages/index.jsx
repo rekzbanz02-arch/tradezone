@@ -153,9 +153,6 @@ export default function Home() {
     </div>
   );
 }
-images.unsplash.com
-You sent
-old
 
 import { useState } from "react";
 import { motion } from "framer-motion";
